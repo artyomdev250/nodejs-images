@@ -1,0 +1,35 @@
+[
+    {
+        "userId": 101,
+        "username": "UserAlpha",
+        "status": "active",
+        "balance": 1500.25,
+        "lastLogin": "2025-12-04T09:00:00Z",
+        "metadata": {
+            "city": "Metropolis",
+            "zip": "54321"
+        }
+    },
+    {
+        "userId": 102,
+        "username": "UserBeta",
+        "status": "pending",
+        "balance": 50.00,
+        "lastLogin": null,
+        "metadata": {
+            "city": "Gotham",
+            "zip": "67890"
+        }
+    },
+    {
+        "userId": 103,
+        "username": "UserGamma",
+        "status": "inactive",
+        "balance": 0.00,
+        "lastLogin": "2025-10-15T14:30:00Z",
+        "metadata": {
+            "city": "StarCity",
+            "zip": "13579"
+        }
+    }
+]
