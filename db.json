@@ -1,35 +1,90 @@
 [
     {
-        "userId": 101,
-        "username": "UserAlpha",
-        "status": "active",
-        "balance": 1500.25,
-        "lastLogin": "2025-12-04T09:00:00Z",
-        "metadata": {
-            "city": "Metropolis",
-            "zip": "54321"
-        }
+        "name": "Product 1",
+        "sku": "dbd425372",
+        "createdAt": "2025-08-21T00:00:00Z",
+        "brand": "Brand 1",
+        "category": "Category 1",
+        "availableQuantity": 12467,
+        "status": "Active",
+        "price": 50,
+        "imageUrl": "https://example.com/product1.png"
     },
     {
-        "userId": 102,
-        "username": "UserBeta",
-        "status": "pending",
-        "balance": 50.00,
-        "lastLogin": null,
-        "metadata": {
-            "city": "Gotham",
-            "zip": "67890"
-        }
+        "name": "Product 2",
+        "sku": "dbd425373",
+        "createdAt": "2025-08-21T00:00:00Z",
+        "brand": "Brand 1",
+        "category": "Category 1",
+        "availableQuantity": 1547,
+        "status": "Active",
+        "price": 50,
+        "imageUrl": "https://example.com/product2.png"
     },
     {
-        "userId": 103,
-        "username": "UserGamma",
-        "status": "inactive",
-        "balance": 0.00,
-        "lastLogin": "2025-10-15T14:30:00Z",
-        "metadata": {
-            "city": "StarCity",
-            "zip": "13579"
-        }
+        "name": "Product 3",
+        "sku": "dbd425374",
+        "createdAt": "2025-08-21T00:00:00Z",
+        "brand": "Brand 1",
+        "category": "Category 1",
+        "availableQuantity": 245,
+        "status": "Active",
+        "price": 50,
+        "imageUrl": "https://example.com/product3.png"
+    },
+    {
+        "name": "Product 4",
+        "sku": "dbd425375",
+        "createdAt": "2025-08-21T00:00:00Z",
+        "brand": "Brand 1",
+        "category": "Category 1",
+        "availableQuantity": 21547,
+        "status": "Active",
+        "price": 50,
+        "imageUrl": "https://example.com/product4.png"
+    },
+    {
+        "name": "Product 5",
+        "sku": "dbd425376",
+        "createdAt": "2025-08-21T00:00:00Z",
+        "brand": "Brand 1",
+        "category": "Category 1",
+        "availableQuantity": 654,
+        "status": "Inactive",
+        "price": 50,
+        "imageUrl": "https://example.com/product5.png"
+    },
+    {
+        "name": "Product 6",
+        "sku": "dbd425377",
+        "createdAt": "2025-08-21T00:00:00Z",
+        "brand": "Brand 1",
+        "category": "Category 1",
+        "availableQuantity": 32158,
+        "status": "Active",
+        "price": 50,
+        "imageUrl": "https://example.com/product6.png"
+    },
+    {
+        "name": "Product 7",
+        "sku": "dbd425378",
+        "createdAt": "2025-08-21T00:00:00Z",
+        "brand": "Brand 1",
+        "category": "Category 1",
+        "availableQuantity": 4574,
+        "status": "Active",
+        "price": 50,
+        "imageUrl": "https://example.com/product7.png"
+    },
+    {
+        "name": "Product 8",
+        "sku": "dbd425379",
+        "createdAt": "2025-08-21T00:00:00Z",
+        "brand": "Brand 1",
+        "category": "Category 1",
+        "availableQuantity": 158,
+        "status": "Active",
+        "price": 50,
+        "imageUrl": "https://example.com/product8.png"
     }
 ]
