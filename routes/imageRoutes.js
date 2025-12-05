@@ -1,8 +1,10 @@
 const express = require('express');
-const { getImages } = require('../controllers/imageController');
-
 const router = express.Router();
 
-router.get('/database', getImages);
+const { getProducts } = require('../controllers/productController');
+const deleteProduct = require('../controllers/deleteProductController');
+
+router.get('/products', getProducts);
+router.delete('/products/:id', deleteProduct);
 
 module.exports = router;
